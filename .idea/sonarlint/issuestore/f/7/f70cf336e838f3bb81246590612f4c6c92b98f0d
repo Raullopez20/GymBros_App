@@ -1,0 +1,12 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°¤ÿè8àß£ùı1J$c4d792c3-9d95-459e-8246-4ad54d90277a
+	java:S112("FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8àß£ùı1J$d1eaf72f-de37-471b-a4a2-96b72b509e8d
+	java:S112”"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¾­‘õş1J$44e51fa9-e458-46cb-8875-fde3b51dda25
+}
+java:S1144P"5Remove this unused private "manejarExcepcion" method.(÷†î¿úÿÿÿÿ8¶½ŸÂÿ1J$7bc26153-8a2a-47eb-adb7-204e0b2932a9
+m	java:S106n"+Replace this use of System.out by a logger.(ì¾ßº8Ìñ£ùı1J$617ee758-ff8a-4eb5-8668-2f4af3bd40bf
+m	java:S106o"+Replace this use of System.out by a logger.(àˆ£ú8Ìñ£ùı1J$89157631-8ef6-480b-bfb2-953a7430aebf
+r	java:S106p"+Replace this use of System.out by a logger.(ÊúÜıÿÿÿÿ8Ìñ£ùı1J$8c81acc4-cb87-487a-8e7e-91442c87a2b9
+r	java:S106q"+Replace this use of System.out by a logger.(á¦êìıÿÿÿÿ8Ìñ£ùı1J$5158984a-2552-4936-a00b-bab910eb77ac
+r	java:S106r"+Replace this use of System.out by a logger.(°€Àäÿÿÿÿÿ8Ìñ£ùı1J$ab9b8a11-169f-4dfa-a0aa-433f0f3c0be5
+r	java:S106s"+Replace this use of System.out by a logger.(Õ†Öüùÿÿÿÿ8Ìñ£ùı1J$5dce083d-4615-4f05-8f92-fb15a94074e4

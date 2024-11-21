@@ -1,0 +1,15 @@
+
+’
+java:S2095s"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ֶ‹ןת8מֿתפ‏1J$7909ec55-51c9-4376-8dc4-4613b0bf7202
+’
+java:S2095="OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ֶ‹ןת8מֿתפ‏1J$abba19b4-cf1a-4524-a434-03ce1f5d2ad2
+’
+java:S2095U"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ֶ‹ןת8מֿתפ‏1J$e7466f82-57f7-43bb-be7a-c5763512fc28
+“
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ֶ‹ןת8םֿתפ‏1J$282539bd-8716-497e-9fa5-c06da45d46aa
+’
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ֶ‹ןת8חֿתפ‏1J$9c72ad8a-c530-4339-87ea-a4fde404cd98
+b
+java:S6905"Don't use the query "SELECT *".(״ם¬8‰ח‘Êü1J$618947c5-e762-486b-98a5-4812246d97eb
+a
+java:S6905T"Don't use the query "SELECT *".(…ז¬E8ח‘Êü1J$acea17f5-9e4b-448a-914f-50d98c6da32d

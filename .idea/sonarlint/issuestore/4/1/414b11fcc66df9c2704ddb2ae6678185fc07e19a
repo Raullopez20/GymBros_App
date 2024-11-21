@@ -1,0 +1,7 @@
+
+“	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á”–ç8‰•´Âÿ1J$69964465-41e8-4d06-be63-9831b3988d55
+”
+java:S11924"RDefine a constant instead of duplicating this literal "Error de Registro" 6 times.(î¶ì[8•´Âÿ1J$a95a87c8-d833-4018-97e1-025d712d0156
+	java:S1071"=Method has 10 parameters, which is greater than 7 authorized.(Á”–ç8‘•´Âÿ1J$78c46c1b-bd2b-45e1-8613-523f3f878e94
+”
+java:S5998_"LRefactor this repetition that can lead to a stack overflow for large inputs.(ªÃ¿ûÿÿÿÿ8˜•´Âÿ1J$00aca559-0763-47d2-9d6a-94e68782f4cf

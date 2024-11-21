@@ -1,0 +1,22 @@
+
+”	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘öä³8úŸ“Êü1J$aee2dca0-d56c-4889-942c-76f94fbc0211
+~
+java:S1141¹"5Extract this nested try block into a separate method.(ø‡î¶üÿÿÿÿ8ïœõş1J$79d62544-dfb2-4e37-a8b4-4e01bb99310b
+Œ
+java:S1192("IDefine a constant instead of duplicating this literal "id_admin" 3 times.(²¯ÑÔ8 “Êü1J$fc2b4b4f-4d22-4c99-86be-3d2d8a1d28be
+
+java:S1192)"GDefine a constant instead of duplicating this literal "nombre" 3 times.(ÿóüÿÿÿÿ8 “Êü1J$f635ca06-9e40-49c6-8fd5-58eb8fe4e0e6
+Š
+java:S1192*"GDefine a constant instead of duplicating this literal "correo" 3 times.(ò¾•ù8 “Êü1J$d15443ef-be4b-4837-9db4-1dd3f9f2ca0a
+“
+java:S1192,"KDefine a constant instead of duplicating this literal "contrasena" 3 times.(õÿ›Ïşÿÿÿÿ8 “Êü1J$6b75ba3f-bbac-4a06-a85b-ca01cc2f5e09
+’
+java:S1192+"ODefine a constant instead of duplicating this literal "nombre_usuario" 3 times.( ã“×8 “Êü1J$f96921d7-8ba6-48f5-9a87-f3e45ebb9c22
+b
+java:S6905!"Don't use the query "SELECT *".(¼ÿ±­8‚ “Êü1J$5fd34825-09e4-48cb-ab97-fb210b1da400
+g
+java:S6905R"Don't use the query "SELECT *".(ÉÄı˜úÿÿÿÿ8‡ “Êü1J$606dfc16-2f2b-465c-987c-f8bbafdd86cf
+c
+java:S6905˜"Don't use the query "SELECT *".(™±ñ 8 “Êü1J$8e49be30-db0e-4916-8f3b-1fc8cdbe47bc
+m	java:S106¾"+Replace this use of System.out by a logger.(†î–)8ùœõş1J$1f75d44d-3bc9-4f72-887a-3ab52193f698
+s	java:S106Ê"+Replace this use of System.out by a logger.(Ñ¯ßøÿÿÿÿ8ùœõş1J$4624cbeb-27de-4af6-93eb-46e76a1ac927

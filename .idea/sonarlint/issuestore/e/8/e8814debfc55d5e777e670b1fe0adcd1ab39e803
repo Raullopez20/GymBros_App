@@ -1,0 +1,9 @@
+
+˜	java:S117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¥ÍØúÿÿÿÿ8¨ËÆÿ1J$848f00af-d1c3-4439-a9dc-4bae54b006a7
+“	java:S117~"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉäµÃ8¨ËÆÿ1J$b4b0a8b3-a94f-43f1-9978-148b075f8132
+
+java:S1192C"FDefine a constant instead of duplicating this literal "Arial" 6 times.(’ú¿àùÿÿÿÿ8¨ËÆÿ1J$d7d29a28-0147-41dc-8210-d7e51599f44c
+
+java:S1192D"HDefine a constant instead of duplicating this literal "#FFFFFF" 4 times.(¦Û‰½úÿÿÿÿ8¨ËÆÿ1J$cc01e860-4fc1-47dc-8f34-85ba009129ac
+¥
+java:S1450"bRemove the "registroControlador" field and declare it as a local variable in the relevant methods.(×æ‘8¨ËÆÿ1J$a868a5b5-163e-4bb5-8959-ed508cacbeee

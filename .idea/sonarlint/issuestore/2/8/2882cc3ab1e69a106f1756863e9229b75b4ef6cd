@@ -1,0 +1,38 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´³å®8å©ªü1J$a74f5081-e562-4390-9556-3c225f7fc323
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´³å®8æ©ªü1J$d2146b8c-3543-4083-a9b1-b924583f8588
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´³å®8æ©ªü1J$ae91696f-c195-44d8-8992-a7ccb5f20fb8
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´³å®8æ©ªü1J$6a1e8ae6-e81f-48bd-815d-1f6758a1b817
+˜	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ŠúÔüÿÿÿÿ8æ©ªü1J$d5a2371e-98fd-464d-9e96-b5a6a7aff1e0
+˜	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ŠúÔüÿÿÿÿ8æ©ªü1J$9bf6f2f6-38b9-4ca1-8c7f-5daed07f02e6
+“	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÓÇ…8ôßéÁş1J$cbb69da8-4b91-4f28-8708-434acbb0094b
+r	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æşå™ÿÿÿÿÿ8ø²†Ìş1
+’	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óú¹{8æ©ªü1J$6bfd982b-385d-4859-8be5-f164c127316b
+˜	java:S117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªõÕüÿÿÿÿ8ç©ªü1J$053045bc-1d03-47eb-9f44-8ab080cfa10a
+œ	java:S116"URename this field "id_usuario" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¢¿”ÿÿÿÿÿ8¡õ…ü1J$80585d4b-3f49-4e40-b144-1d70b0ffa576
+u	java:S116"YRename this field "nombre_usuario" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×±Æ¥8ø²†Ìş1
+£	java:S116"\Rename this field "detalles_contacto" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÂ’šÿÿÿÿÿ8Õ»ªü1J$938cf1f9-b5fe-4316-87e9-d17282befd75
+§	java:S116"eRename this field "preferencias_entrenamiento" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾°¾¯8Õ»ªü1J$b13b6660-b6e9-4a4c-b3c5-ab6d648ddfe1
+„	java:S107"BConstructor has 11 parameters, which is greater than 7 authorized.(´³å®8»¨ÿËş1J$965e482d-3d71-496c-b24a-2b63fa19ab1a
+•	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çö‘ìÿÿÿÿÿ8»¨ÿËş1J$f98c3f59-8002-4bf7-869a-4b7248dba6b3
+	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÓÇ…8»¨ÿËş1J$94593835-1625-4090-9ade-ae31f935ddfc
+W
+java:S1161.":Add the "@Override" annotation above this method signature(•ß½8ø²†Ìş1
+W
+java:S11612":Add the "@Override" annotation above this method signature(™ê´œ8ø²†Ìş1
+W
+java:S1161>":Add the "@Override" annotation above this method signature(Î¤˜‹8ø²†Ìş1
+W
+java:S1161B":Add the "@Override" annotation above this method signature(àï×ü8ø²†Ìş1
+\
+java:S1161^":Add the "@Override" annotation above this method signature(—Í±¿üÿÿÿÿ8ø²†Ìş1
+\
+java:S1161b":Add the "@Override" annotation above this method signature(æşå™ÿÿÿÿÿ8ø²†Ìş1
+\
+java:S1161f":Add the "@Override" annotation above this method signature(®õ­«üÿÿÿÿ8ş²†Ìş1
+W
+java:S1161j":Add the "@Override" annotation above this method signature(‰ÖØ8³†Ìş1
+	java:S100n"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¯„8Ê¨ÿËş1J$a8eabe24-5425-4a4c-bd36-b8fab98f305e
+	java:S100r"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óú¹{8Ê¨ÿËş1J$d5e90850-74a8-4cbb-a3b6-813cb34f5ca9
+	java:S100v"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ÷Ï°8Ê¨ÿËş1J$31baaa77-33d9-44c3-9d1c-54965d906dda
+•	java:S100z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªõÕüÿÿÿÿ8Ê¨ÿËş1J$4c89b1b9-8ff3-4ba9-af80-472a16713267

@@ -1,0 +1,24 @@
+
+	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Å©Ì”ÿ1J$db9adfdf-fb37-4888-941a-3a3e7f2784de
+	java:S112‡"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ßÑØ”ÿ1J$3fa8226c-4409-409c-abd4-0778e82dc665
+	java:S112£"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ßÑØ”ÿ1J$44983ebc-01c6-4fa9-ad3b-e939ce0a31c8
+	java:S112·"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ßÑØ”ÿ1J$204b1958-ea62-423c-a9cc-a5523c05f6a1
+	java:S112×"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ßÑØ”ÿ1J$4d1322ec-c3ae-4510-98e4-a3efd948ef38
+
+java:S1192*"GDefine a constant instead of duplicating this literal "titulo" 3 times.(ãí®ñûÿÿÿÿ8ßÑØ”ÿ1J$240747f4-2ebc-4371-8ffb-49ee8e79cbde
+‘
+java:S1192("IDefine a constant instead of duplicating this literal "id_clase" 3 times.(êøûÖøÿÿÿÿ8éÑØ”ÿ1J$c29f2bb9-63b5-4a8c-9e77-c3a409189f6a
+•
+java:S1192."MDefine a constant instead of duplicating this literal "reservado_en" 3 times.(»ÃÔ³üÿÿÿÿ8éÑØ”ÿ1J$747ae839-0791-49a3-8267-a0fba4e2ea4e
+“
+java:S1192)"KDefine a constant instead of duplicating this literal "id_usuario" 4 times.(«Ìø³şÿÿÿÿ8éÑØ”ÿ1J$2c7efbb3-0876-4641-893d-d2eadbeb2b65
+“
+java:S1192'"KDefine a constant instead of duplicating this literal "id_reserva" 3 times.(İÂ’üÿÿÿÿ8éÑØ”ÿ1J$da3a57c1-52f5-4657-a2ad-599c7d1a17ed
+’
+java:S1192+"ODefine a constant instead of duplicating this literal "nombre_usuario" 3 times.( ã“×8éÑØ”ÿ1J$60de970c-4d20-4320-a2c1-24ba9e212b64
+g
+java:S6905"Don't use the query "SELECT *".(íáˆğüÿÿÿÿ8éÑØ”ÿ1J$ffe9a764-d3c0-461e-b37d-86116c6e35de
+g
+java:S6905t"Don't use the query "SELECT *".(á›ü×üÿÿÿÿ8Ø©Ì”ÿ1J$bd5f8658-5f88-46aa-b626-39893b740441
+h
+java:S6905Å"Don't use the query "SELECT *".(á›ü×üÿÿÿÿ8şÑØ”ÿ1J$f322e32e-f76c-4cbe-afd3-7c55a501a8c8

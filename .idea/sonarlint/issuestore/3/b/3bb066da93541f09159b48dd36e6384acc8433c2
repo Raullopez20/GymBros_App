@@ -1,0 +1,23 @@
+
+“	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âûÓ‹8¦¡„Æÿ1J$5b6db5e2-f860-4b6f-9f67-b571e09392ff
+Ÿ
+java:S1192L"WDefine a constant instead of duplicating this literal "-fx-background-color: " 5 times.(¦¡›”ùÿÿÿÿ8¬¡„Æÿ1J$3124b083-a4a4-42af-8419-2d7f4e9cc99e
+ 
+java:S1192L"XDefine a constant instead of duplicating this literal "; -fx-text-fill: white;" 5 times.(¦¡›”ùÿÿÿÿ8¬¡„Æÿ1J$37ee7a10-ea53-4eaa-84eb-e0ab585c8b40
+Ÿ	java:S116""]Rename this field "DEFAULT_IMAGE_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÿê8¬¡„Æÿ1J$d0de3c39-d45b-4286-b121-bc33106d18d8
+i
+java:S1170"!Make this final field static too.(¨¿é´ÿÿÿÿÿ8¬¡„Æÿ1J$1202a3a4-927a-43dd-8630-3a47ee962896
+d
+java:S1170 "!Make this final field static too.(†Şˆß8¬¡„Æÿ1J$76943ec3-f307-4836-af58-c71b8927e995
+d
+java:S1170""!Make this final field static too.(—ÿê8¬¡„Æÿ1J$2816abd5-5077-4cd7-bfab-ec92930d8e03
+d
+java:S3010,"!Remove this assignment of "root".(™”Ï×8¬¡„Æÿ1J$11981317-d9bb-4bcd-b9be-474f5914286b
+x
+java:S2209,"5Change this instance-reference to a static reference.(™”Ï×8¬¡„Æÿ1J$e6c00556-5053-4ad3-8332-40fc4b155d10
+u
+java:S1602§",Remove useless curly braces around statement(Ú¿°ıÿÿÿÿ8¬èÙúı1J$d1fedd3f-a892-4c7f-b6d9-bbafd7b1911d
+t
+java:S1068",Remove this unused "appAdmin" private field.(Ò…©ğÿÿÿÿÿ8¼èÙúı1J$66dc8957-351c-4870-bfdc-858c9f24d95b
+x
+java:S1068"0Remove this unused "primaryColor" private field.(¨¿é´ÿÿÿÿÿ8ÓĞˆÆÿ1J$94db9957-9789-4479-acdc-5d771f6c62a3

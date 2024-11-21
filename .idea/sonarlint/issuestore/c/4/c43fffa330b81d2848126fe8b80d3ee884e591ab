@@ -1,0 +1,42 @@
+
+	java:S112×"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8½ÀîÅÿ1J$a7da4b1d-c26f-4231-8a55-228499d8fdcd
+•
+java:S1192Ü"LDefine a constant instead of duplicating this literal "Advertencia" 3 times.(Èßı–ıÿÿÿÿ8½ÀîÅÿ1J$ef5f4680-6fe3-429b-b328-21daae39e323
+£
+java:S1192"_Define a constant instead of duplicating this literal "-fx-background-color: #EAEAEA;" 3 times.(¡Ø†8½ÀîÅÿ1J$e3818336-e934-490b-a384-3b9f08c5bc01
+
+java:S1192·"GDefine a constant instead of duplicating this literal "Ã‰xito" 3 times.(ôŸå¤ıÿÿÿÿ8½ÀîÅÿ1J$999f504a-66f5-4e99-a0f2-7218ce840774
+ 
+java:S1192Î"WDefine a constant instead of duplicating this literal "-fx-background-color: " 8 times.(¡° ³ùÿÿÿÿ8½ÀîÅÿ1J$37ca2f96-c109-416b-a0e1-fc55a1ee7537
+¡
+java:S1192Î"XDefine a constant instead of duplicating this literal "; -fx-text-fill: white;" 6 times.(¡° ³ùÿÿÿÿ8½ÀîÅÿ1J$fe162c21-8b63-4b7a-9c16-53e5cc9d9d89
+i
+java:S11700"!Make this final field static too.(ÅÌÌøÿÿÿÿ8ÃÀîÅÿ1J$a2484c27-fa52-4286-9311-9c60427666f9
+d
+java:S11701"!Make this final field static too.(†Şˆß8ÃÀîÅÿ1J$6aeb52c5-1050-4a8f-a4d6-47353aabeac0
+i
+java:S11702"!Make this final field static too.(Î¨¯Ùüÿÿÿÿ8ÃÀîÅÿ1J$1d2c24fd-1e8b-4189-997c-6ef0a13a421a
+š
+java:S3776C"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Šë¬ÿÿÿÿÿ8ÊÀîÅÿ1J$ae01bd8b-92f4-41d1-b5e2-226891ad7378
+v
+java:S1135Ç"2Complete the task associated to this TODO comment.(İšÆÿ8ÖÀîÅÿ1J$c9e90cc3-d06b-4cca-8f9a-86511a5acb0c
+›
+java:S3776–"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(€Èô£øÿÿÿÿ8ÜÀîÅÿ1J$76ffc3f7-ecb7-44dc-9faa-f65964797e14
+s	java:S106Ó"+Replace this use of System.out by a logger.(¦À¤Òıÿÿÿÿ8ãÀîÅÿ1J$aa8f2d21-0ef0-4b55-bdbe-3e6765c70df8
+s	java:S106Õ"+Replace this use of System.out by a logger.(ãø§ïûÿÿÿÿ8ãÀîÅÿ1J$b0335c4e-5df4-4940-b7a9-afbc8f1f563d
+–
+java:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 55 to the 15 allowed.(÷‹Ä…8¾ôü€2J$16ec9e33-1379-4b32-a92d-a5ca934d9c2b
+|
+java:S1117æ"8Rename "root" which hides the field declared at line 43.(î´¢Ò8Àôü€2J$9048b81c-1a4d-43ac-b8bd-82557da5edc0
+u
+java:S1602³",Remove useless curly braces around statement(ÑÎü•úÿÿÿÿ8Èôü€2J$b0c36145-0b50-41cc-ad78-976554901162
+p
+java:S1602·",Remove useless curly braces around statement(¹ó‹ 8Èôü€2J$106e7794-0ded-48c8-920d-5c6ee4e77e07
+‚
+java:S1117î">Rename "usuarioDAO" which hides the field declared at line 45.(§’ô8Ûôü€2J$045a5f85-e6f6-4837-ba92-c46760c27ca5
+‘
+java:S1128"NRemove this unused import 'java.sql.SQLIntegrityConstraintViolationException'.(¤¡†8öÀîÅÿ1J$7065cb97-6c0b-44ca-a0c0-c71aa3315441
+t
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8öÀîÅÿ1J$9f55dff6-2a8b-4420-8f99-9b9e69ba4fa4
+t
+java:S1068*",Remove this unused "appAdmin" private field.(Ò…©ğÿÿÿÿÿ8öÀîÅÿ1J$fbaf6498-1a18-4fcb-93da-8bcd795db91c

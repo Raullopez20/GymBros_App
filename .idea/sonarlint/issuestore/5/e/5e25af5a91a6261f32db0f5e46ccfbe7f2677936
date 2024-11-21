@@ -1,0 +1,17 @@
+
+“
+java:S2095ˆ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Æ‹ïú8™…¼”ÿ1J$59148a71-e6f9-45d3-a4dc-634c0caefe7a
+—
+java:S2095;"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ôàŞ«ûÿÿÿÿ8™…¼”ÿ1J$64d618cc-410c-4734-bbea-5465251c3661
+’
+java:S2095r"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Æ‹ïú8™…¼”ÿ1J$6668e94c-df8e-4a33-958e-41bd5f863d00
+’
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Æ‹ïú8™…¼”ÿ1J$48d9aa50-a021-4cfc-93f9-ca398658fb61
+’
+java:S2095V"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Æ‹ïú8™…¼”ÿ1J$d5f95000-59d0-4f97-99bd-5a4135d9190a
+g
+java:S6905"Don't use the query "SELECT *".(Æ´Ô„ÿÿÿÿÿ8™…¼”ÿ1J$8701a144-43fc-4bd8-a624-741d1ac3a483
+
+java:S3252;"HUse static access with "java.sql.Statement" for "RETURN_GENERATED_KEYS".(ôàŞ«ûÿÿÿÿ8­…¼”ÿ1J$274eea71-bdfa-43b9-9189-844086717080
+g
+java:S6905U"Don't use the query "SELECT *".(ÖÅìüÿÿÿÿ8À…¼”ÿ1J$265dc35b-777e-4484-ae71-cb7120874833

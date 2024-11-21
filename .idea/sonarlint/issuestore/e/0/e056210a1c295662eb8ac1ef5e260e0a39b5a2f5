@@ -1,0 +1,16 @@
+
+r	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì‚¾¥ùÿÿÿÿ8ëé“ÿ1
+r	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì‚¾¥ùÿÿÿÿ8ìé“ÿ1
+r	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì‚¾¥ùÿÿÿÿ8ìé“ÿ1
+m	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì‹‹Æ8ìé“ÿ1
+r	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êûì÷üÿÿÿÿ8ìé“ÿ1
+r	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ÛÖ¿ÿÿÿÿÿ8ìé“ÿ1
+o	java:S116	"SRename this field "id_clase" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿’Ñî8ğé“ÿ1
+y	java:S116"XRename this field "id_entrenador" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¨Šíúÿÿÿÿ8ğé“ÿ1
+}	java:S116"\Rename this field "max_participantes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î€óÁÿÿÿÿÿ8ğé“ÿ1
+j	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š±£Ğ8ôé“ÿ1
+j	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì‹‹Æ8ôé“ÿ1
+o	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚèãÒùÿÿÿÿ8øé“ÿ1
+o	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êûì÷üÿÿÿÿ8øé“ÿ1
+j	java:S100D"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğüÇš8ùé“ÿ1
+o	java:S100H"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ÛÖ¿ÿÿÿÿÿ8úé“ÿ1

@@ -1,0 +1,12 @@
+
+Í
+java:S1192g"ŠDefine a constant instead of duplicating this literal "-fx-background-color: #600000; -fx-text-fill: white; -fx-font-size: 16px;" 3 times.(î¬ö78†ù£Æÿ1J$40344d3b-b383-48d4-9fa3-82023ae4cd0f
+‰
+java:S1192F"FDefine a constant instead of duplicating this literal "Arial" 3 times.(óúÈ°8ƒöØÅÿ1J$781d7662-79a7-4f0a-87eb-2cc7ae1e4eed
+Î
+java:S1192l"ŠDefine a constant instead of duplicating this literal "-fx-background-color: #500000; -fx-text-fill: white; -fx-font-size: 16px;" 3 times.(¾¹Ü›8†ù£Æÿ1J$679e81dc-a69b-4ce5-a9a7-2ae59d61a4f6
+¡
+java:S1450""^Remove the "centroContenido" field and declare it as a local variable in the relevant methods.(ÁÇÑô8œ™úÃÿ1J$cfadce96-08de-4977-bb9f-19cbeca8b54f
+¤
+java:S1450"aRemove the "usuarioControlador" field and declare it as a local variable in the relevant methods.(ø³„8Ã½¸Äÿ1J$471dbb17-acb8-4458-b618-56c72e1b66e1
+„	java:S125Ÿ"<This block of commented-out lines of code should be removed.(åäˆïûÿÿÿÿ8š‡öÄÿ1J$c78a9052-d99d-4122-abf3-1990e0a838e1

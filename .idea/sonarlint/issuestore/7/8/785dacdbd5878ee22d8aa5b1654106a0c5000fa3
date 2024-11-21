@@ -1,0 +1,24 @@
+
+l
+java:S5411Ô"(Use a primitive boolean expression here.(‚¾©8áÑ‚€2J$29c164c0-1bac-40fe-aa4f-d96029c868a5
+	java:S112z"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ëØÏ€2J$351bc045-f152-4e5d-95c2-b638539018e5
+›
+java:S1192"WDefine a constant instead of duplicating this literal "-fx-background-color: " 3 times.(ê¥äí8ìØÏ€2J$b6124df6-ae06-4a65-8a37-b8f5e3d08417
+
+java:S1192"LDefine a constant instead of duplicating this literal "Advertencia" 3 times.(ó¬«I8ìØÏ€2J$52ff638b-52d5-4a11-8174-e4f3f1bf3a9a
+œ
+java:S1192"XDefine a constant instead of duplicating this literal "; -fx-text-fill: white;" 3 times.(ê¥äí8ìØÏ€2J$97e3e5f6-9b99-4684-91f3-b41d29b431a6
+i
+java:S1170"!Make this final field static too.(ÅÌÌøÿÿÿÿ8îØÏ€2J$c87346af-205f-4e85-b288-c445b8e1994a
+d
+java:S1170"!Make this final field static too.(†Şˆß8îØÏ€2J$eccfdd06-86f2-4e5c-896b-0aae99ba7f16
+d
+java:S3010,"!Remove this assignment of "root".(™”Ï×8óØÏ€2J$df9d0cbb-b5c5-41d2-87e1-1e0b88845582
+x
+java:S2209,"5Change this instance-reference to a static reference.(™”Ï×8ôØÏ€2J$c118c678-3459-479c-8d98-da6ad1b204c7
+u
+java:S1135j"2Complete the task associated to this TODO comment.(İšÆÿ8ƒÙÏ€2J$3f5b520c-db7a-4d85-9e7e-f56fb01112c8
+u
+java:S1068"2Remove this unused "secondaryColor" private field.(†Şˆß8ÙÏ€2J$e9be2529-0b46-4137-8367-79e036b10eeb
+t
+java:S1068",Remove this unused "appAdmin" private field.(Ò…©ğÿÿÿÿÿ8ÙÏ€2J$664ad635-851f-4599-adf4-10fe78be9906

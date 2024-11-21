@@ -1,0 +1,23 @@
+
+
+java:S1192J"MDefine a constant instead of duplicating this literal "Calcular IMC" 3 times.(¹ŞÃ28ÙÈÕÄÿ1J$82de2fe9-a842-4e43-b8c8-a13c760c358e
+‘
+java:S1192‡"HDefine a constant instead of duplicating this literal " kg >= " 3 times.(’€ğ³ÿÿÿÿÿ8ÙÈÕÄÿ1J$76024179-ae54-4115-8834-d3badce37a58
+’
+java:S1192Ü"IDefine a constant instead of duplicating this literal "\\d{0,3}" 6 times.(‡¿Èøÿÿÿÿ8ÙÈÕÄÿ1J$ab5eb81b-30ba-4bb8-8f80-7b75cf0a1211
+
+java:S1192<"FDefine a constant instead of duplicating this literal "Arial" 4 times.(å´Äûÿÿÿÿ8ÙÈÕÄÿ1J$74fc77cd-7f95-480e-b3fb-b04bd5477702
+Ÿ
+java:S1192E"WDefine a constant instead of duplicating this literal "-fx-background-color: " 5 times.(´Äı¬úÿÿÿÿ8ÙÈÕÄÿ1J$781e2911-fe34-4a9e-9f16-ea8d27ea0d77
+ 
+java:S1192E"XDefine a constant instead of duplicating this literal "; -fx-text-fill: white;" 5 times.(´Äı¬úÿÿÿÿ8ÙÈÕÄÿ1J$8b200339-bde7-4206-85fb-320940d4ca0a
+i
+java:S1170"!Make this final field static too.(ÅÌÌøÿÿÿÿ8ÙÈÕÄÿ1J$f609d640-0e88-496b-b38a-b05141702189
+d
+java:S1170"!Make this final field static too.(†Şˆß8ÙÈÕÄÿ1J$d277bcdf-2f1c-46d1-b6cd-590ba705d061
+•
+java:S3776y"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ƒºí£8ùµÄÅÿ1J$202099c5-e7cf-4854-80ec-8acc133c877c
+¾
+java:S6204ƒ"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8…éÛÄÿ1J$21bdad0c-8c52-4b46-ad70-3fc495f78801
+u
+java:S1068"2Remove this unused "secondaryColor" private field.(†Şˆß8†ÉÕÄÿ1J$89fff1db-f5d5-42cb-ab2c-c81f23521fac

@@ -1,0 +1,33 @@
+
+—
+java:S1192É"SDefine a constant instead of duplicating this literal "Series Completadas" 3 times.(«í¼ì8Ò–§€2J$f8473659-1c80-4c58-af5d-eab25c63b2a8
+–
+java:S1192¡"MDefine a constant instead of duplicating this literal "ID Ejercicio" 3 times.(Û¶„ıÿÿÿÿÿ8Ó–§€2J$79d333f7-5bde-4f7d-b42f-d420f8ad8447
+
+java:S1192Ë"YDefine a constant instead of duplicating this literal "Repeticiones Completadas" 3 times.(µ…Ù‹8Ó–§€2J$ff2bc5f2-3527-4064-a294-565d8dc9f98b
+Ÿ
+java:S1192R"WDefine a constant instead of duplicating this literal "-fx-background-color: " 5 times.(÷ŒÜùÿÿÿÿ8Ó–§€2J$035ab9e4-1f16-48e7-8d08-3bff75aa6a8e
+•
+java:S1192"LDefine a constant instead of duplicating this literal "ID Progreso" 3 times.(ªÂ»šúÿÿÿÿ8Ó–§€2J$45beee55-b62d-4c3e-be2e-73cac2252a9f
+ 
+java:S1192R"XDefine a constant instead of duplicating this literal "; -fx-text-fill: white;" 5 times.(÷ŒÜùÿÿÿÿ8Ó–§€2J$ce2f8b6e-af83-4b28-954a-cf00749e24d1
+
+java:S1192Í"JDefine a constant instead of duplicating this literal "DuraciÃ³n" 3 times.(ü±£ì8Ó–§€2J$0cc704b6-f032-49ce-a8d1-2bd2f0d2ec92
+i
+java:S1170"!Make this final field static too.(ÅÌÌøÿÿÿÿ8Ô–§€2J$0c3a15de-3d96-48a7-ac49-f7c91919e64a
+d
+java:S1170 "!Make this final field static too.(†Şˆß8Ô–§€2J$4e4a4ac8-eeac-40e9-86de-4dfd30fd1ac1
+d
+java:S3010-"!Remove this assignment of "root".(™”Ï×8Ö–§€2J$41690044-dff7-41da-a8bd-8f15c384bf5c
+x
+java:S2209-"5Change this instance-reference to a static reference.(™”Ï×8Ö–§€2J$8a0e75f6-28b6-4a80-8a39-39904b53410c
+~
+java:S1117Æ":Rename "layout" which hides the field declared at line 34.(¨õ±ô8’—§€2J$8ae9421a-64ab-42d8-ae13-69e9f1b0d0e8
+›
+java:S3776è"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(³şÊíúÿÿÿÿ8¢—§€2J$4acee006-ddb5-4e70-97e9-0dccd17eff3b
+ƒ
+java:S1117é":Rename "layout" which hides the field declared at line 34.(ÔºŞåûÿÿÿÿ8¢—§€2J$f76e7a54-9a61-4d63-9f7a-d7e2900a2fdc
+~
+java:S1117ã":Rename "layout" which hides the field declared at line 34.(¨õ±ô8¢—§€2J$7f9b921f-2644-4103-8a1a-aee94bec20ba
+t
+java:S1068",Remove this unused "appAdmin" private field.(Ò…©ğÿÿÿÿÿ8·Ô¯€2J$f821ab0b-f789-40b0-b85c-445cc24cba9a

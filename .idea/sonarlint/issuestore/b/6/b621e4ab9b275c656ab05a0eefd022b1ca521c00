@@ -1,0 +1,24 @@
+
+¨
+java:S1192q"ŠDefine a constant instead of duplicating this literal "-fx-background-color: #600000; -fx-text-fill: white; -fx-font-size: 16px;" 3 times.(ÌÃ­º8ÑÛÅÆÿ1
+¨
+java:S1192k"ŠDefine a constant instead of duplicating this literal "-fx-background-color: #500000; -fx-text-fill: white; -fx-font-size: 16px;" 3 times.(’„‡ª8ÑÛÅÆÿ1
+
+java:S1450("_Remove the "adminControlador" field and declare it as a local variable in the relevant methods.(À®ùıÿÿÿÿ8ÑÛÅÆÿ1
+€
+java:S1450+"^Remove the "centroContenido" field and declare it as a local variable in the relevant methods.(Ô±òşÿÿÿÿ8ÑÛÅÆÿ1
+^	java:S125§"<This block of commented-out lines of code should be removed.(åäˆïûÿÿÿÿ8ŞÛÅÆÿ1
+g
+java:S1854Ø"DRemove this useless assignment to local variable "vistaEditarAdmin".(ŸûÊŠúÿÿÿÿ8ŞÛÅÆÿ1
+X
+java:S1481Ø"5Remove this unused "vistaEditarAdmin" local variable.(ŸûÊŠúÿÿÿÿ8ŞÛÅÆÿ1
+i
+java:S1854à"KRemove this useless assignment to local variable "controllerEditarHorario".(ÜÍçŠ8ŞÛÅÆÿ1
+Z
+java:S1481à"<Remove this unused "controllerEditarHorario" local variable.(ÜÍçŠ8ŞÛÅÆÿ1
+o
+java:S1854è"LRemove this useless assignment to local variable "vistaEditarInstalaciones".(¦á…©üÿÿÿÿ8ŞÛÅÆÿ1
+`
+java:S1481è"=Remove this unused "vistaEditarInstalaciones" local variable.(¦á…©üÿÿÿÿ8ŞÛÅÆÿ1
+X
+java:S2209ñ"5Change this instance-reference to a static reference.(›Ìíôüÿÿÿÿ8ŞÛÅÆÿ1

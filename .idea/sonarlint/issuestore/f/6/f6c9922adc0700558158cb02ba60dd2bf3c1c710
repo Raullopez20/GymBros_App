@@ -1,0 +1,14 @@
+
+Ÿ	java:S116"]Rename this field "DEFAULT_IMAGE_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÿê8ÌÌª½ş1J$cbaa4314-9556-49bf-ab0b-6cb1f4cefcda
+d
+java:S1170"!Make this final field static too.(†Şˆß8ÒÌª½ş1J$041fff38-bf60-420f-9892-e2f5037c143e
+d
+java:S1170"!Make this final field static too.(—ÿê8ÒÌª½ş1J$8ca6e52a-59f7-4a8a-85e4-ffcf378c95a0
+d
+java:S3010 "!Remove this assignment of "root".(™”Ï×8ÒÌª½ş1J$0205c338-d45e-4fc9-bddc-3537077738da
+x
+java:S2209 "5Change this instance-reference to a static reference.(™”Ï×8ÒÌª½ş1J$9878b3ed-5764-4aa8-ad31-d080c2956de8
+q
+java:S1068".Remove this unused "appUsuario" private field.(—§ª®8ùÌª½ş1J$44663071-5595-4539-b1a7-b196ed682275
+u
+java:S1068"2Remove this unused "secondaryColor" private field.(†Şˆß8îÿ«½ş1J$c515d2fe-b9c9-44f2-92cf-9c6554d6bf82

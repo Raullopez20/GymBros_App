@@ -1,0 +1,28 @@
+
+˜	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ıîªÿÿÿÿÿ8ÍâÓü1J$ad985bde-b6f2-4c91-9e8d-eb6ad4c5447b
+˜	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ıîªÿÿÿÿÿ8ÍâÓü1J$d3145c72-6c11-4fd1-9fe3-2e3872441699
+˜	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ıîªÿÿÿÿÿ8ÍâÓü1J$61336b05-4d2b-49e3-a895-6f3d36ed09ae
+˜	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ıîªÿÿÿÿÿ8ÍâÓü1J$c0b400ef-5e67-45ac-9fcd-26d246bf6fe5
+˜	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ıîªÿÿÿÿÿ8ÍâÓü1J$15a0fb8f-24d0-407e-8f3a-fb24f4ea0a9e
+˜	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ííÏÿÿÿÿÿ8ÍâÓü1J$433d15a9-699c-4467-a191-a3538e025ee7
+“	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì‹‹Æ8ÍâÓü1J$47efa30c-40f6-4283-bf34-bf7260792208
+“	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÓÇ…8ÍâÓü1J$bcb0ce1f-d3ba-4551-843b-55366e075e64
+˜	java:S117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æşå™ÿÿÿÿÿ8ÍâÓü1J$13982a1d-e04e-4bb4-ba82-85ec36593818
+“	java:S117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚´Óè8ÍâÓü1J$032b8378-d5fa-4278-87b7-a74ef5aedba6
+v	java:S116	"URename this field "id_reserva" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ×ƒ¯üÿÿÿÿ8 ÿ”ÿ1
+o	java:S116
+"SRename this field "id_clase" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿’Ñî8 ÿ”ÿ1
+v	java:S116"URename this field "id_usuario" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¢¿”ÿÿÿÿÿ8¡ÿ”ÿ1
+u	java:S116"YRename this field "nombre_usuario" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×±Æ¥8¡ÿ”ÿ1
+x	java:S116"WRename this field "reservado_en" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å©­úÿÿÿÿ8¡ÿ”ÿ1
+ˆ	java:S107""AConstructor has 8 parameters, which is greater than 7 authorized.(®ıîªÿÿÿÿÿ8¾ôÓü1J$bd79d22e-f7e3-4b42-b40b-762afce9db56
+	java:S100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öñ·Ñ8¾ôÓü1J$8128637f-16ee-4973-b147-26593daa2c7d
+•	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ííÏÿÿÿÿÿ8¾ôÓü1J$00eaa9a0-8f95-4153-bf5f-6c7e59468933
+	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š±£Ğ8¾ôÓü1J$e3ca1ff7-61ff-4755-a172-5975c81920a6
+	java:S100:"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì‹‹Æ8¾ôÓü1J$e9b84211-0aea-4b4a-9679-89a9e3285d7b
+•	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çö‘ìÿÿÿÿÿ8¾ôÓü1J$dcc5674e-0021-4b7c-99f2-cb359a7441c7
+	java:S100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÓÇ…8¾ôÓü1J$8620baf0-2c1e-4adf-ad6d-96075ee23817
+•	java:S100N"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Í±¿üÿÿÿÿ8¾ôÓü1J$027df21a-2ac7-4afc-a6d7-0c703acb799b
+•	java:S100R"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æşå™ÿÿÿÿÿ8¾ôÓü1J$9641438b-5514-45cd-b67a-6cbcf5018933
+	java:S100f"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÌ¼ç8ÎôÓü1J$97e84b0b-9fa9-483c-902d-fee1fdd908df
+	java:S100j"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚´Óè8ÎôÓü1J$6c483f42-4611-4f11-8633-b3500ff2e93e

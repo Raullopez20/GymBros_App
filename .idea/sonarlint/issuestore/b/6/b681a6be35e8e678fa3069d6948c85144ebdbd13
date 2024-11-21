@@ -1,0 +1,71 @@
+
+‹
+java:S1192/"HDefine a constant instead of duplicating this literal "#D3D3D3" 4 times.(¥åçÄ8¸—Ôöı1J$cc060a9b-941e-479a-afb7-f26bec3cc4c3
+
+java:S1192­"FDefine a constant instead of duplicating this literal "17:00" 3 times.(ŒÒçµùÿÿÿÿ8¸—Ôöı1J$8513c4e0-7f1c-4276-8f6d-637955e63726
+
+java:S1192§"FDefine a constant instead of duplicating this literal "Zumba" 9 times.(²¶Åşÿÿÿÿ8¸—Ôöı1J$dc2860af-a63f-427c-833f-814d54710396
+’
+java:S1192§"IDefine a constant instead of duplicating this literal "Pilates" 12 times.(²¶Åşÿÿÿÿ8¹—Ôöı1J$07ef69ba-8d7f-4ccf-b4ad-0ccacbd12bb3
+“
+java:S1192§"JDefine a constant instead of duplicating this literal "CrossFit" 13 times.(²¶Åşÿÿÿÿ8¹—Ôöı1J$92e97d99-6ae8-4cb8-80f0-9229937968d2
+’
+java:S1192§"IDefine a constant instead of duplicating this literal "Cerrado" 20 times.(²¶Åşÿÿÿÿ8¹—Ôöı1J$1edca20b-fd2c-457d-aa9f-da7b63bbf295
+“
+java:S1192§"JDefine a constant instead of duplicating this literal "Spinning" 13 times.(²¶Åşÿÿÿÿ8¹—Ôöı1J$60b92984-dc84-4cb5-a000-e5c28618bd98
+
+java:S1192­"FDefine a constant instead of duplicating this literal "16:00" 3 times.(ŒÒçµùÿÿÿÿ8¹—Ôöı1J$340cd890-f6d0-4fcf-af37-125c2c6f40f1
+Ÿ
+java:S11928"WDefine a constant instead of duplicating this literal "-fx-background-color: " 9 times.(ÁÄëšùÿÿÿÿ8¹—Ôöı1J$a63183fe-7034-421f-8768-c1d4f2922f07
+
+java:S1192­"FDefine a constant instead of duplicating this literal "21:00" 3 times.(ŒÒçµùÿÿÿÿ8¹—Ôöı1J$70495988-935c-439c-9a0a-cf385cdacbab
+
+java:S1192­"FDefine a constant instead of duplicating this literal "11:00" 3 times.(ŒÒçµùÿÿÿÿ8¹—Ôöı1J$81800eb2-09b5-4018-8cf3-13fee1ff343d
+š
+java:S1192§"QDefine a constant instead of duplicating this literal "Gimnasio Abierto" 7 times.(²¶Åşÿÿÿÿ8º—Ôöı1J$44dfdd49-c14c-44bb-a21a-26667f47461c
+‹
+java:S1192/"HDefine a constant instead of duplicating this literal "#EAEAEA" 4 times.(¥åçÄ8º—Ôöı1J$02a8c61c-e72f-4c3d-935f-e0db70395e15
+
+java:S1192­"FDefine a constant instead of duplicating this literal "19:00" 3 times.(ŒÒçµùÿÿÿÿ8º—Ôöı1J$cc9656ad-5e8b-476e-86df-26f750ae420c
+
+java:S1192­"FDefine a constant instead of duplicating this literal "20:00" 3 times.(ŒÒçµùÿÿÿÿ8º—Ôöı1J$a1140483-a214-4db0-8c45-33955d642591
+ 
+java:S1192X"XDefine a constant instead of duplicating this literal "; -fx-text-fill: white;" 8 times.(±»Ãëşÿÿÿÿ8º—Ôöı1J$13c77457-b5da-4820-b163-50db395ea154
+
+java:S1192­"FDefine a constant instead of duplicating this literal "10:00" 3 times.(ŒÒçµùÿÿÿÿ8º—Ôöı1J$5be51abe-1ddc-4e3b-9c1c-9bc959034e9e
+–
+java:S1192e"SDefine a constant instead of duplicating this literal "-fx-border-color: " 4 times.(±¶İ«8º—Ôöı1J$819502a6-49ee-4aa5-9b82-bb0ae6bf04ef
+
+java:S1192­"FDefine a constant instead of duplicating this literal "18:00" 3 times.(ŒÒçµùÿÿÿÿ8º—Ôöı1J$b9acc88e-586c-497f-a0a1-87bff2ec6c85
+i
+java:S1170"!Make this final field static too.(ÅÌÌøÿÿÿÿ8™©Ôöı1J$f9cfc0b6-3f9b-4bc9-aa00-75efa8c8ed1b
+d
+java:S1170"!Make this final field static too.(†Şˆß8™©Ôöı1J$2dfd1bca-161c-4c61-b75a-06d1010ecbf2
+‚
+java:S1144â"9Remove this unused private "obtenerDatosReservas" method.(–æ­“ÿÿÿÿÿ8€€Õöı1J$492ba37e-c4c0-481e-8b91-1dc59cb2a759
+d
+java:S3010$"!Remove this assignment of "root".(™”Ï×8©Ôöı1J$b90714ed-4999-46a7-a01d-9571cb4c5fe3
+x
+java:S2209$"5Change this instance-reference to a static reference.(™”Ï×8©Ôöı1J$bd4a2ad9-6c02-4bcb-86b6-0b6190d50c39
+…
+java:S1117¥"ARename "comboBoxClase" which hides the field declared at line 30.(™Äº8¦©Ôöı1J$0f9b2104-2d45-4e99-adc8-16502d1c555d
+a
+java:S2119¦"Save and re-use this "Random".(¼İÅf8°©Ôöı1J$e4e914bf-f487-4db7-9924-95f51a6140e7
+c
+java:S6905°"Don't use the query "SELECT *".(ïª½µ8°©Ôöı1J$d2798717-a0b0-4d46-aa85-659c5b097862
+·
+java:S1130â"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(–æ­“ÿÿÿÿÿ8¯€Õöı1J$e9178130-3634-4426-93af-771f07f17257
+·
+java:S1130ø"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(»ÔÉÍùÿÿÿÿ8¯€Õöı1J$4ef9dab5-bee9-4e0e-9214-8f9e93b20907
+·
+java:S1130‚"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(­òñîùÿÿÿÿ8¯€Õöı1J$c53bcab2-11b2-4414-b03c-ae7c4f73f28c
+Ÿ
+java:S6912Á"VUse "addBatch" and "executeBatch" to execute multiple SQL statements in a single call.(ï†©Îøÿÿÿÿ8¯€Õöı1J$acb7e17f-9a91-49fc-84c4-b6d5baea424a
+š
+java:S6912Ÿ"VUse "addBatch" and "executeBatch" to execute multiple SQL statements in a single call.(´êÖŸ8¯€Õöı1J$de5092ff-6a8c-4f51-b447-b1d80b46c0b3
+u
+java:S1068"2Remove this unused "secondaryColor" private field.(†Şˆß8Á©Ôöı1J$57e59ca7-2db1-4e08-99ae-867722af81a3
+t
+java:S1068",Remove this unused "appAdmin" private field.(Ò…©ğÿÿÿÿÿ8Á©Ôöı1J$f34f6402-1ba1-40f2-8a14-a8c72f6e9cf0
+t
+java:S1068"1Remove this unused "comboBoxClase" private field.(Œäù¾8Á©Ôöı1J$2a75c348-b857-4722-b392-ae49462c5890

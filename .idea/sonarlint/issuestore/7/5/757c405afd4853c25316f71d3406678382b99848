@@ -1,0 +1,35 @@
+
+”	java:S117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Ş™ä8ĞèüÄÿ1J$97314efa-e782-4097-992e-9c95a54fbf2a
+X
+java:S1141†"5Extract this nested try block into a separate method.(ø‡î¶üÿÿÿÿ8ŠÊ€Åÿ1
+
+java:S11925"GDefine a constant instead of duplicating this literal "nombre" 5 times.(ÿóüÿÿÿÿ8ÖèüÄÿ1J$42388f7e-c3b2-4f15-8808-c63815411f30
+£
+java:S1192>"[Define a constant instead of duplicating this literal "preferencias_entrenamiento" 5 times.(è¡¾˜øÿÿÿÿ8ÖèüÄÿ1J$acf9368a-cefd-4c7b-aa53-81ad90b791f4
+š
+java:S1192="RDefine a constant instead of duplicating this literal "detalles_contacto" 5 times.(•ØÓÒúÿÿÿÿ8ÖèüÄÿ1J$4add73b3-7536-4b71-9ee8-d921989ab597
+
+java:S11929"GDefine a constant instead of duplicating this literal "altura" 5 times.(…¸®Ğúÿÿÿÿ8ÖèüÄÿ1J$8d06b323-6578-4218-8f1a-655902967bab
+“
+java:S11924"KDefine a constant instead of duplicating this literal "id_usuario" 4 times.(«Ìø³şÿÿÿÿ8ÖèüÄÿ1J$60805141-71c6-4f38-bc8d-9e05af5e122b
+Š
+java:S11927"GDefine a constant instead of duplicating this literal "correo" 5 times.(ò¾•ù8ÖèüÄÿ1J$3016a9b4-f623-41f7-a642-de1147ce32c9
+Œ
+java:S11926"IDefine a constant instead of duplicating this literal "apellido" 5 times.(Ğç”8ÖèüÄÿ1J$56e6f079-12de-4ba9-b3eb-8b7db0dc2497
+“
+java:S1192<"KDefine a constant instead of duplicating this literal "contrasena" 5 times.(ò„êûÿÿÿÿ8ÖèüÄÿ1J$0607f411-ce4e-4648-b426-f9fd1b60eca6
+’
+java:S1192;"ODefine a constant instead of duplicating this literal "nombre_usuario" 5 times.( ã“×8ÖèüÄÿ1J$6017c0a9-25be-40a5-9e28-aefe85b54eb3
+w
+java:S2755Ä"3Disable access to external entities in XML parsing.(ğ¨ºî8ÖèüÄÿ1J$affdfa83-0b66-4304-b0f0-38aa0b87e069
+w
+java:S2755µ"3Disable access to external entities in XML parsing.(İ‰Ë–8ÖèüÄÿ1J$21820c1d-7096-4f18-b781-66cbcf977bf5
+a
+java:S6905-"Don't use the query "SELECT *".(Èİ78ÛèüÄÿ1J$64f4b817-d3c1-4e7b-ae13-944659770beb
+b
+java:S6905"Don't use the query "SELECT *".(ØûÆ8ãèüÄÿ1J$14270927-ca74-4f10-b8c6-d2d9794a7e93
+h
+java:S6905ß"Don't use the query "SELECT *".(ÜÃäûÿÿÿÿ8èèüÄÿ1J$a2dd7b1d-e119-4fa0-8fea-5fc5e9df2cbd
+G	java:S106‹"+Replace this use of System.out by a logger.(¶ıÌ8¶Ê€Åÿ1
+M	java:S106—"+Replace this use of System.out by a logger.(ÿ¯†Ûûÿÿÿÿ8¶Ê€Åÿ1
+–	java:S100ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€µ¦Ìûÿÿÿÿ8ñèüÄÿ1J$bd270599-1926-4503-83f1-534d220ee6a3

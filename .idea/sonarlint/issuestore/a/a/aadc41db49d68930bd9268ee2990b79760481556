@@ -1,0 +1,7 @@
+
+r	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¸ÌÑýÿÿÿÿ8©ðˆÇÿ1
+l	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Úí/8ªðˆÇÿ1
+V
+java:S1172Z"4Remove this unused method parameter "administrador".(–ÎÅÆúÿÿÿÿ8³ðˆÇÿ1
+n
+java:S1301‡"KReplace this "switch" statement by "if" statements to increase readability.( ê´åúÿÿÿÿ8·ðˆÇÿ1

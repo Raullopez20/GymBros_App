@@ -1,0 +1,25 @@
+
+‹
+java:S1192-"HDefine a constant instead of duplicating this literal "#D3D3D3" 4 times.(¥åçÄ8¥¹ˆ½ş1J$3655ccc7-26a0-40c1-b045-3506584275a1
+‹
+java:S1192-"HDefine a constant instead of duplicating this literal "#EAEAEA" 4 times.(¥åçÄ8¥¹ˆ½ş1J$2cb430df-7ddd-4c9d-a6cb-363c02e204ab
+–
+java:S1192A"SDefine a constant instead of duplicating this literal "-fx-border-color: " 3 times.(±¶İ«8¦¹ˆ½ş1J$32c3a6dd-db62-4abf-9654-1ede2e07d680
+i
+java:S1170"!Make this final field static too.(ÅÌÌøÿÿÿÿ8§¹ˆ½ş1J$077a6005-a205-4b07-bb34-e09840af4326
+d
+java:S1170"!Make this final field static too.(†Şˆß8§¹ˆ½ş1J$d4a681cf-56f4-4515-91c7-c76a7bca9e79
+Ÿ
+java:S1450"\Remove the "tablaHorarios" field and declare it as a local variable in the relevant methods.(ßš¶Â8©¹ˆ½ş1J$b15dccc2-051c-4a0b-bb8a-68f981c03374
+d
+java:S3010$"!Remove this assignment of "root".(™”Ï×8ğ¹½ş1J$4c50b50a-5b47-4c02-979b-c92f1d13ccbc
+x
+java:S2209$"5Change this instance-reference to a static reference.(™”Ï×8­¹ˆ½ş1J$d2a83c38-b89a-4c3a-9f52-a0ba4ab45add
+p
+java:S1128"NRemove this unused import 'com.example.proyecto_final_raul.app.view.AppAdmin'.(ùêĞ²øÿÿÿÿ8›şß¾ş1
+k
+java:S1128	"IRemove this unused import 'com.example.proyecto_final_raul.util.Usuario'.(“ÅƒŸıÿÿÿÿ8›şß¾ş1
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8›şß¾ş1
+u
+java:S1068"2Remove this unused "secondaryColor" private field.(†Şˆß8Î¹ˆ½ş1J$375148fa-a349-44cc-8899-335f2087727b
